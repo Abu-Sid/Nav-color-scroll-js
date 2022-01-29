@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  background-image: url("//source.unsplash.com/random/");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.banner {
+  padding: 20px;
+  text-align: center;
+}
+.nav-bg {
+  background-color: #fff;
+}
+.nav-bg-scroll {
+  background-color: rgb(66, 66, 179);
+}
